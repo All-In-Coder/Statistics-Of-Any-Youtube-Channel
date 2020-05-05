@@ -3,7 +3,7 @@ import tkinter as tk
 import urllib.request
 import json
 
-apiKey = "AIzaSyCmAlhKTJXjAx67qa5osk7o5HzsMK1y_fo"
+apiKey = YOUR API KEY HERE
 
 
 def channel_data():
